@@ -2,133 +2,73 @@
   {
     "name": "Kane Williamson",
     "role": "BAT",
-    "runsScored": 2004,
-    "battingAverage": 60.72727273,
-    "batOuts": 33,
-    "wickets": 0,
-    "bowlingAverage": null,
-    "runsGiven": 0,
-    "imageUrl": "https://example.com/images/kane_williamson.jpg"
+    "imageUrl": "https://example.com/images/kane_williamson.jpg",
+    "profileLink": "/players/kane-williamson"
   },
   {
     "name": "Jasprit Bumrah",
     "role": "BOWL",
-    "runsScored": 0,
-    "battingAverage": null,
-    "batOuts": 0,
-    "wickets": 99,
-    "bowlingAverage": 16.25252525,
-    "runsGiven": 1609,
-    "imageUrl": "https://example.com/images/jasprit_bumrah.jpg"
+    "imageUrl": "https://example.com/images/jasprit_bumrah.jpg",
+    "profileLink": "/players/jasprit-bumrah"
   },
   {
     "name": "Matt Henry",
     "role": "BOWL",
-    "runsScored": 686,
-    "battingAverage": 17.58974359,
-    "batOuts": 39,
-    "wickets": 153,
-    "bowlingAverage": 19.48366013,
-    "runsGiven": 2981,
-    "imageUrl": "https://example.com/images/matt_henry.jpg"
+    "imageUrl": "https://example.com/images/matt_henry.jpg",
+    "profileLink": "/players/matt-henry"
   },
   {
     "name": "Yashasvi Jaiswal",
     "role": "BAT",
-    "runsScored": 3662,
-    "battingAverage": 63.13793103,
-    "batOuts": 58,
-    "wickets": 0,
-    "bowlingAverage": null,
-    "runsGiven": 0,
-    "imageUrl": "https://example.com/images/yashasvi_jaiswal.jpg"
+    "imageUrl": "https://example.com/images/yashasvi_jaiswal.jpg",
+    "profileLink": "/players/yashasvi-jaiswal"
   },
   {
     "name": "Michael Neser",
     "role": "AR",
-    "runsScored": 1761,
-    "battingAverage": 37.46808511,
-    "batOuts": 47,
-    "wickets": 146,
-    "bowlingAverage": 22.5,
-    "runsGiven": 3285,
-    "imageUrl": "https://example.com/images/michael_neser.jpg"
+    "imageUrl": "https://example.com/images/michael_neser.jpg",
+    "profileLink": "/players/michael-neser"
   },
   {
     "name": "Ravindra Jadeja",
     "role": "AR",
-    "runsScored": 1175,
-    "battingAverage": 36.71875,
-    "batOuts": 32,
-    "wickets": 91,
-    "bowlingAverage": 22.34065934,
-    "runsGiven": 2033,
-    "imageUrl": "https://example.com/images/ravindra_jadeja.jpg"
+    "imageUrl": "https://example.com/images/ravindra_jadeja.jpg",
+    "profileLink": "/players/ravindra-jadeja"
   },
   {
     "name": "Kyle Verreynne",
     "role": "WK",
-    "runsScored": 2301,
-    "battingAverage": 44.25,
-    "batOuts": 52,
-    "wickets": 0,
-    "bowlingAverage": null,
-    "runsGiven": 0,
-    "imageUrl": "https://example.com/images/kyle_verreynne.jpg"
+    "imageUrl": "https://example.com/images/kyle_verreynne.jpg",
+    "profileLink": "/players/kyle-verreynne"
   },
   {
     "name": "Dean Elgar",
     "role": "BAT",
-    "runsScored": 2705,
-    "battingAverage": 45.84745763,
-    "batOuts": 59,
-    "wickets": 0,
-    "bowlingAverage": null,
-    "runsGiven": 0,
-    "imageUrl": "https://example.com/images/dean_elgar.jpg"
+    "imageUrl": "https://example.com/images/dean_elgar.jpg",
+    "profileLink": "/players/dean-elgar"
   },
   {
     "name": "Peter Handscomb",
     "role": "WK",
-    "runsScored": 4186,
-    "battingAverage": 48.6744186,
-    "batOuts": 86,
-    "wickets": 0,
-    "bowlingAverage": null,
-    "runsGiven": 0,
-    "imageUrl": "https://example.com/images/peter_handscomb.jpg"
+    "imageUrl": "https://example.com/images/peter_handscomb.jpg",
+    "profileLink": "/players/peter-handscomb"
   },
   {
     "name": "Josh Inglis",
     "role": "WK",
-    "runsScored": 930,
-    "battingAverage": 51.66666667,
-    "batOuts": 18,
-    "wickets": 0,
-    "bowlingAverage": null,
-    "runsGiven": 0,
-    "imageUrl": "https://example.com/images/josh_inglis.jpg"
+    "imageUrl": "https://example.com/images/josh_inglis.jpg",
+    "profileLink": "/players/josh-inglis"
   },
   {
     "name": "Cameron Bancroft",
     "role": "WK",
-    "runsScored": 3333,
-    "battingAverage": 42.18987342,
-    "batOuts": 79,
-    "wickets": 0,
-    "bowlingAverage": null,
-    "runsGiven": 0,
-    "imageUrl": "https://example.com/images/cameron_bancroft.jpg"
+    "imageUrl": "https://example.com/images/cameron_bancroft.jpg",
+    "profileLink": "/players/cameron-bancroft"
   },
   {
     "name": "Jomel Warrican",
     "role": "BOWL",
-    "runsScored": 0,
-    "battingAverage": null,
-    "batOuts": 0,
-    "wickets": 112,
-    "bowlingAverage": 19.5,
-    "runsGiven": 2184,
-    "imageUrl": "https://example.com/images/jomel_warrican.jpg"
+    "imageUrl": "https://example.com/images/jomel_warrican.jpg",
+    "profileLink": "/players/jomel-warrican"
   }
 ]
