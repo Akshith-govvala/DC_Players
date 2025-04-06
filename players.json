@@ -8,67 +8,67 @@
   {
     "name": "Jasprit Bumrah",
     "role": "BOWL",
-    "imageUrl": "https://example.com/images/jasprit_bumrah.jpg",
-    "profileLink": "/players/jasprit-bumrah"
+    "imageUrl": "file:///D:/Cricket%20League%20Simulation/playerphotos/bumrah.webp",
+    "profileLink": "/https://www.espncricinfo.com/cricketers/jasprit-bumrah-625383"
   },
   {
     "name": "Matt Henry",
     "role": "BOWL",
-    "imageUrl": "https://example.com/images/matt_henry.jpg",
-    "profileLink": "/players/matt-henry"
+    "imageUrl": "file:///D:/Cricket%20League%20Simulation/playerphotos/henry.webp",
+    "profileLink": "/https://www.espncricinfo.com/cricketers/matt-henry-506612"
   },
   {
     "name": "Yashasvi Jaiswal",
     "role": "BAT",
-    "imageUrl": "https://example.com/images/yashasvi_jaiswal.jpg",
-    "profileLink": "/players/yashasvi-jaiswal"
+    "imageUrl": "file:///D:/Cricket%20League%20Simulation/playerphotos/jaiswal.webp",
+    "profileLink": "https://www.espncricinfo.com/cricketers/yashasvi-jaiswal-1151278"
   },
   {
     "name": "Michael Neser",
     "role": "AR",
-    "imageUrl": "https://example.com/images/michael_neser.jpg",
-    "profileLink": "/players/michael-neser"
+    "imageUrl": "file:///D:/Cricket%20League%20Simulation/playerphotos/neser.webp",
+    "profileLink": "/https://www.espncricinfo.com/cricketers/michael-neser-376169"
   },
   {
     "name": "Ravindra Jadeja",
     "role": "AR",
-    "imageUrl": "https://example.com/images/ravindra_jadeja.jpg",
-    "profileLink": "/players/ravindra-jadeja"
+    "imageUrl": "file:///D:/Cricket%20League%20Simulation/playerphotos/jDDU.webp",
+    "profileLink": "https://www.espncricinfo.com/cricketers/ravindra-jadeja-234675"
   },
   {
     "name": "Kyle Verreynne",
     "role": "WK",
-    "imageUrl": "https://example.com/images/kyle_verreynne.jpg",
-    "profileLink": "/players/kyle-verreynne"
+    "imageUrl": "file:///D:/Cricket%20League%20Simulation/playerphotos/verreynne.webp",
+    "profileLink": "/https://www.espncricinfo.com/cricketers/kyle-verreynne-595004"
   },
   {
     "name": "Dean Elgar",
     "role": "BAT",
-    "imageUrl": "https://example.com/images/dean_elgar.jpg",
-    "profileLink": "/players/dean-elgar"
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320343.1.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/dean-elgar-230852"
   },
   {
     "name": "Peter Handscomb",
     "role": "WK",
-    "imageUrl": "https://example.com/images/peter_handscomb.jpg",
-    "profileLink": "/players/peter-handscomb"
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321600/321688.2.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/peter-handscomb-334337"
   },
   {
     "name": "Josh Inglis",
     "role": "WK",
-    "imageUrl": "https://example.com/images/josh_inglis.jpg",
-    "profileLink": "/players/josh-inglis"
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/324200/324232.2.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/josh-inglis-662235"
   },
   {
     "name": "Cameron Bancroft",
     "role": "WK",
-    "imageUrl": "https://example.com/images/cameron_bancroft.jpg",
-    "profileLink": "/players/cameron-bancroft"
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321568.3.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/cameron-bancroft-501011"
   },
   {
     "name": "Jomel Warrican",
     "role": "BOWL",
-    "imageUrl": "https://example.com/images/jomel_warrican.jpg",
-    "profileLink": "/players/jomel-warrican"
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322009.1.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/jomel-warrican-432214"
   }
 ]
