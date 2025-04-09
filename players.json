@@ -70,5 +70,41 @@
     "role": "BOWL",
     "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322009.1.png",
     "profileLink": "https://www.espncricinfo.com/cricketers/jomel-warrican-432214"
+  },
+  {
+    "name": "Sam Hain",
+    "role": "BAT",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/324200/324239.3.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/sam-hain-555850"
+  },
+  {
+    "name": "Tom Bruce",
+    "role": "BAT",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/324200/324216.1.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/tom-bruce-707113"
+  },
+  {
+    "name": "Jacob Bethell",
+    "role": "AR",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/388700/388704.5.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/jacob-bethell-1194959"
+  },
+  {
+    "name": "Jayden Seales",
+    "role": "BOWL",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/326100/326141.4.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/jayden-seales-1199304"
+  },
+  {
+    "name": "David Bedingham",
+    "role": "BAT",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/388800/388864.5.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/david-bedingham-498585"
+  },
+  {
+    "name": "Liam Dawson",
+    "role": "AR",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323109.1.png",
+    "profileLink": "https://www.espncricinfo.com/cricketers/liam-dawson-211855"
   }
 ]
